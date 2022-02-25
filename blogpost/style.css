@@ -1,11 +1,14 @@
+html{
+    background-color: snow; 
+}
 
-body{
-    color: #333;
-    text-align: left;
-    margin: 0; 
-    padding: 0;
-    font-size: 16px;
-    font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
+body {
+  color: black;
+  text-align: center;
+  font-family: Arial;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
 }
 
 #cabecera {
@@ -27,7 +30,7 @@ body{
   width: 70%;
   padding: 0;
   text-align: left;
-  border: 1px solid #ddd;
+  border: 1px solid black;
   margin: 0 auto;
 }
 
